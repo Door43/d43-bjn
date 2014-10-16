@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjn:home|Door43 (bjn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjn|d43-bjn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjn/archive/master.zip|d43-bjn.zip]]
+
+**Recent Changes**
+{{changes>ns = bjn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjn|Ethnologue data]]
+
